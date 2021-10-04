@@ -1,7 +1,7 @@
 name = "cfwrk1"
 type = "javascript"
 zone_id = ""
-account_id = ""
+account_id = "474dee5db232df5befc9106e31e69c3a"
 route = ""
 workers_dev = true
 compatibility_date = "2021-10-02"
